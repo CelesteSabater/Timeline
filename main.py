@@ -1,4 +1,3 @@
-from data import *
 from funciones import *
 from settings import *
 
